@@ -1,0 +1,16 @@
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\patacchiola.patrik.5h.WStation.csprojResolveAssemblyReference.cache
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\App.g.cs
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\patacchiola.patrik.5h.WStation_MarkupCompile.cache
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\MainWindow.g.cs
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\patacchiola.patrik.5h.WStation_MarkupCompile.lref
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\bin\Debug\patacchiola.patrik.5h.WStation.exe.config
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\bin\Debug\patacchiola.patrik.5h.WStation.exe
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\bin\Debug\patacchiola.patrik.5h.WStation.pdb
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\MainWindow.baml
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\patacchiola.patrik.5h.WStation.g.resources
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\patacchiola.patrik._5h.WStation.Properties.Resources.resources
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\patacchiola.patrik.5h.WStation.csproj.GenerateResource.Cache
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\patacchiola.patrik.5h.WStation.exe
+C:\Users\i7 6700K\Desktop\patacchiola.patrik.5h.WStation\patacchiola.patrik.5h.WStation\obj\Debug\patacchiola.patrik.5h.WStation.pdb
