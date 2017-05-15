@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>false</UseEmulator>
+    <RemoteDebugMachine>192.168.1.113</RemoteDebugMachine>
+    <AuthenticationMode>Universal</AuthenticationMode>
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <Source>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</Source>
+    <SmallTileSource>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</SmallTileSource>
+    <MediumTileSource>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</MediumTileSource>
+    <WideTileSource>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</WideTileSource>
+    <LargeTileSource>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</LargeTileSource>
+    <AppIconSource>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</AppIconSource>
+    <SplashScreenSource>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\i7 6700K\Documents\Visual Studio 2017\Projects\Weather\Weather\sunnybutcloudy.png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

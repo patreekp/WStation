@@ -1,0 +1,6 @@
+MainPackage=C:\Users\i7 6700K\documents\visual studio 2017\Projects\Weather\Weather\bin\ARM\Release\Upload\Weather_1.1.4.0_ARM.appx
+SymbolPackage=C:\Users\i7 6700K\documents\visual studio 2017\Projects\Weather\Weather\AppPackages\Weather_1.1.4.0\Weather_1.1.4.0_ARM.appxsym
+ResourcePack=C:\Users\i7 6700K\documents\visual studio 2017\Projects\Weather\Weather\_scale-100.appx
+ResourcePack=C:\Users\i7 6700K\documents\visual studio 2017\Projects\Weather\Weather\_scale-125.appx
+ResourcePack=C:\Users\i7 6700K\documents\visual studio 2017\Projects\Weather\Weather\_scale-150.appx
+ResourcePack=C:\Users\i7 6700K\documents\visual studio 2017\Projects\Weather\Weather\_scale-400.appx

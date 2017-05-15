@@ -1,0 +1,2 @@
+MainPackage=C:\Users\i7 6700K\documents\visual studio 2017\Projects\Weather\Weather\bin\x64\Release\Weather_1.1.4.0_x64.appx
+SymbolPackage=C:\Users\i7 6700K\documents\visual studio 2017\Projects\Weather\Weather\AppPackages\Weather_1.1.4.0_Test\Weather_1.1.4.0_x64.appxsym
